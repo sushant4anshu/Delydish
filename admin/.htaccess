@@ -1,0 +1,4 @@
+AuthUserFile "/home/delydish/public_html/admin/.htpasswd"
+AuthName "Please login to proceed"
+AuthType Basic
+require valid-user
